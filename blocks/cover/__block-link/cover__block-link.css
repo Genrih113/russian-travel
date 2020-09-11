@@ -1,16 +1,16 @@
-.cover {
+.cover__block-link {
   display: flex;
-  width: 100%;
   flex-direction: column;
+  width: 100%;
   max-width: 1184px;
-  /*position: relative;
+  position: relative;
   justify-content: center;
   align-items: center;
-  height: 62.5vw;*/
+  height: 62.5vw;
   /*may be min-max?*/
-  /*max-height: 740px;
-  background-image: url(../../images/cover-trains.jpg);
+  max-height: 740px;
+  background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
   background-position: center;
-  text-decoration: none;*/
+  text-decoration: none;
 }
