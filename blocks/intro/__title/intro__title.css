@@ -12,12 +12,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media (max-width: 900px) {
-  .intro__title {
-    margin: 0;
-  }
-}
-
 @media (max-width: 750px) {
   .intro__title {
     font-size: 32px;
